@@ -2324,3 +2324,13 @@ textarea.form-control {
 }
 
 /*  Blog  Area End */
+
+img.github {
+	height: 30px;
+	filter: brightness(17.5);
+	margin: -7px 0 0 5px;
+}
+
+a.link {
+    color: white;
+}

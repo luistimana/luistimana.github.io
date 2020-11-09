@@ -37,51 +37,11 @@
 	<!-- preloader area end -->
 
 
-	<!--Main-Menu Area Start-->
-	<div class="side-menu-wrapper">
-		<div class="menu-toogle-icon">
-				<div id="nav-icon3">
-					<span></span>
-					<span></span>
-					<span></span>
-					<span></span>
-				  </div>
-		</div>
-		<div class="side-menu">
-			<div class="heading-area">
-				<a href="index.html" class="profile-photo"  >
-					<img src="assets/images/LT.png" alt="" class="wow zoomIn" data-wow-delay="0.2s">
-				</a>
-				<div class="name wow fadeInUp" data-wow-delay="0.3s">
-						Luis Miguel Timaná Gonzaga
-				</div>
-			</div>
-			<ul id="mainmenu-area">
-				<li class="current">
-					<a href="#home" class="wow fadeInUp" data-wow-delay="0.4s"><i class="fas fa-home"></i>Inicio</a>
-				</li>
-				<li>
-					<a href="#about" class="wow fadeInUp" data-wow-delay="0.4s"><i class="fas fa-user"></i>A cerca de mi</a>
-				</li>
-				<li>
-					<a href="#service" class="wow fadeInUp" data-wow-delay="0.4s"><i class="fas fa-briefcase"></i>Servicios</a>
-				</li>
-				<li>
-					<a href="#resume" class="wow fadeInUp" data-wow-delay="0.4s"><i class="fas fa-file-alt"></i>Curriculum</a>
-				</li>
-				<li>
-					<a href="#project-gallery" class="wow fadeInUp" data-wow-delay="0.4s"><i class="fas fa-layer-group"></i>Portafolio</a>
-				</li>
-				<li>
-					<a href="#blog" class="wow fadeInUp" data-wow-delay="0.4s"><i class="fab fa-blogger"></i>Blog</a>
-				</li>
-				<li>
-					<a href="#contact" class="wow fadeInUp" data-wow-delay="0.4s"><i class="fab fa-whatsapp"></i>Contacto</a>
-				</li>
-			</ul>
-		</div>
-	</div>
-	<!--Main-Menu Area Start-->
+<?php
+
+	include 'layouts/menu.php';
+
+?>
 
 	<!-- Main Content Area Start -->
 	<div class="main-content">
@@ -821,6 +781,44 @@
 										</div>
 									</div>
 								</div>
+
+								<div class="mix col-md-6 col-lg-4 gallery-item cat-1">
+									<div class="gallery-item-content wow fadeInUp">
+										<div class="item-thumbnail">
+											<img src="assets/images/proyectos/android-robot.jpg" alt="">
+											<div class="content-overlay">
+												<div class="content">
+													<div class="links">
+														<a href="android-robot.php" class="link"><i class="fas fa-link"></i></a>
+														<a class="img-popup image-preview"
+															href="assets/images/proyectos/android-robot.jpg">
+															<i class="fas fa-eye"></i>
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+	
+								<!-- <div class="mix col-md-6 col-lg-4 gallery-item  cat-1">
+									<div class="gallery-item-content wow fadeInUp">
+										<div class="item-thumbnail">
+											<img src="assets/images/proyectos/web_gema_view.png" alt="">
+											<div class="content-overlay">
+												<div class="content">
+													<div class="links">
+														<a href="portfolio-details.html" class="link"><i class="fas fa-link"></i></a>
+														<a class="img-popup image-preview"
+															href="assets/images/proyectos/web_gema.png">
+															<i class="fas fa-eye"></i>
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div> -->
 	
 								<div class="mix col-md-6 col-lg-4 gallery-item cat-1">
 									<div class="gallery-item-content wow fadeInUp">
@@ -1393,7 +1391,7 @@
 					</div>
 					<div class="row">
 						<div class="col-lg-12 text-center">
-							<!-- <a href="blogs.html" class="mybtn3 mybtn-bg wow fadeInUp"><span>Ver Todo</span></a> -->
+					
 							<a href="#" class="mybtn3 mybtn-bg wow fadeInUp"><span>Ver Todo</span></a>
 						</div>
 					</div>
