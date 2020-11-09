@@ -1,17 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
-<!-- Mirrored from geniusdevs.com/themeforest/gfolio/v3-two/blogs.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 30 Oct 2020 22:51:53 GMT -->
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="keyword" content="resume,cv,portfolio,vcard">
-	<title>  GFolio - CV/Resume/Portfolio  </title>
+	<title>  Blogs </title>
 	<!-- favicon -->
-	<link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
+	<link rel="shortcut icon" href="assets/images/LT.png" type="image/x-icon">
 	<!-- bootstrap -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<!-- Plugin css -->
@@ -37,46 +35,11 @@
 	</div>
 	<!-- preloader area end -->
 
-	<!--Main-Menu Area Start-->
-	<div class="side-menu-wrapper">
-		<div class="menu-toogle-icon">
-			<i class="fas fa-bars"></i>
-		</div>
-	<div class="side-menu">
-		<div class="heading-area">
-			<a href="index.html" class="profile-photo">
-				<img src="assets/images/about3.jpg" alt="">
-			</a>
-			<div class="name">
-					Kristen Stewart
-			</div>
-		</div>
-		<ul id="mainmenu-area">
-			<li>
-				<a href="index.html"><i class="fas fa-home"></i>Home</a>
-			</li>
-			<li>
-				<a href="index.html"><i class="fas fa-user"></i>About</a>
-			</li>
-			<li>
-				<a href="index.html"><i class="fas fa-briefcase"></i>Services</a>
-			</li>
-			<li>
-				<a href="index.html"><i class="fas fa-file-alt"></i>Resume</a>
-			</li>
-			<li>
-				<a href="index.html"><i class="fas fa-layer-group"></i>Portfolio</a>
-			</li>
-			<li class="current">
-				<a href="index.html"><i class="fab fa-blogger"></i>Blog</a>
-			</li>
-			<li>
-				<a href="index.html"><i class="fab fa-whatsapp"></i>Contact</a>
-			</li>
-		</ul>
-	</div>
-	</div>
-	<!--Main-Menu Area Start-->
+	<?php
+
+	include 'layouts/menu.php';
+
+	?>
 
 	<!-- Main Content Area Start -->
 		<div class="main-content">
@@ -90,31 +53,30 @@
                                     <div class="col-lg-6 col-md-6">
                                         <div class="single-blog">
                                             <div class="img">
-                                                <img src="assets/images/blog/img1.png" alt="">
+                                               <img src="assets/images/proyectos/android-robot.jpg" alt="Android-Robot">
                                             </div>
                                             <div class="content">
                                                 <ul class="top-meta">
                                                     <li>
                                                         <p class="date">
-                                                            21 Aug, 2019
+                                                            02 Nov, 2020
                                                         </p>
                                                     </li>
                                                     <li>
                                                         <p class="post-by">
-                                                            By, Admin
+                                                            Por, Luis Timaná
                                                         </p>
                                                     </li>
                                                 </ul>
                                                 <a href="blog-details.html">
                                                     <h4 class="title">
-                                                        5 reasons why your website 
-                                                        needs more whitespace
+                                                        Android Robot Interactivo
                                                     </h4>
                                                 </a>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-6 col-md-6">
+                                    <!-- <div class="col-lg-6 col-md-6">
                                         <div class="single-blog">
                                             <div class="img">
                                                 <img src="assets/images/blog/img2.png" alt="">
@@ -302,7 +264,7 @@
                                                 </a>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="row">
                                     <div class="col-12 d-flex justify-content-center">
@@ -313,8 +275,8 @@
                                                         <span aria-hidden="true"><i class="fas fa-angle-double-left"></i></span>
                                                     </a>
                                                 </li>
-                                                <li class="page-item"><a class="page-link" href="#">1</a></li>
-                                                <li class="page-item"><a class="page-link active" href="#">2</a></li>
+                                                <li class="page-item"><a class="page-link active" href="#">1</a></li>
+                                                <li class="page-item"><a class="page-link" href="#">2</a></li>
                                                 <li class="page-item"><a class="page-link" href="#">3</a></li>
                                                 <li class="page-item">
                                                     <a class="page-link" href="#" aria-label="Next">
@@ -326,140 +288,11 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4">
-                                
-                                <div class="categori-widget">
-                                    <h4 class="title">
-                                        Categories
-                                    </h4>
-                                    <ul class="cat-list">
-                                        <li>
-                                            <a href="#">
-                                                <p>
-                                                    Trading
-                                                </p>
-                                                <span class="count">
-                                                33
-                                                </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <p>
-                                                    Exchange
-                                                </p>
-                                                <span class="count">
-                                                    77
-                                                </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <p>
-                                                    Guide
-                                                </p>
-                                                <span class="count">
-                                                    49
-                                                </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <p>
-                                                    Blockchain
-                                                </p>
-                                                <span class="count">
-                                                    70
-                                                </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <p>
-                                                    Crypto
-                                                </p>
-                                                <span class="count">
-                                                    33
-                                                </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <p>
-                                                    Lending
-                                                </p>
-                                                <span class="count">
-                                                    38
-                                                </span>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="latest-post-widget">
-                                    <h4 class="title">
-                                        Latest Post
-                                    </h4>
-                                    <ul class="post-list">
-                                        <li>
-                                            <div class="post">
-                                                <div class="post-img">
-                                                    <img src="assets/images/blog/img1.png" alt="">
-                                                </div>
-                                                <div class="post-details">
-                                                    <a href="blog-details.html" class="post-title">
-                                                        5 reasons why you website  
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="post">
-                                                <div class="post-img">
-                                                    <img src="assets/images/blog/img2.png" alt="">
-                                                </div>
-                                                <div class="post-details">
-                                                    <a href="blog-details.html" class="post-title">
-                                                        6 reasons why you website 
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="post">
-                                                <div class="post-img">
-                                                    <img src="assets/images/blog/img3.png" alt="">
-                                                </div>
-                                                <div class="post-details">
-                                                    <a href="blog-details.html" class="post-title">
-                                                        7 reasons why you website 
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="post">
-                                                <div class="post-img">
-                                                    <img src="assets/images/blog/img4.png" alt="">
-                                                </div>
-                                                <div class="post-details">
-                                                    <a href="blog-details.html" class="post-title">
-                                                        8 reasons why you website 
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="newsletter-widget">
-                                    <h4 class="title">
-                                            NewsLetter
-                                    </h4>
-                                    <form action="#" class="contact-form">
-                                        <input type="text" class="form-control" placeholder="Enter Email..">
-                                        <button type="submit" class="mybtn3 mybtn-bg mt-4">Subscribe</button>
-                                    </form> 
-                                </div>
-                            </div>
+                            <?php
+
+						include 'layouts/derecha.php';
+
+						?>
                         </div>
                     </div>
                 </section>

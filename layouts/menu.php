@@ -33,9 +33,9 @@
 				<li>
 					<a href="index.php#project-gallery" class="wow fadeInUp" data-wow-delay="0.4s"><i class="fas fa-layer-group"></i>Portafolio</a>
 				</li>
-				<!-- <li>
+				<li>
 					<a href="index.php#blog" class="wow fadeInUp" data-wow-delay="0.4s"><i class="fab fa-blogger"></i>Blog</a>
-				</li> -->
+				</li>
 				<li>
 					<a href="index.php#contact" class="wow fadeInUp" data-wow-delay="0.4s"><i class="fab fa-whatsapp"></i>Contacto</a>
 				</li>

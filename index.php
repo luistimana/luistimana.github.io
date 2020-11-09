@@ -1281,31 +1281,30 @@
 								<div class="slider-item">
 									<div class="single-blog">
 										<div class="img">
-											<img src="assets/images/blog/img1.png" alt="">
+											<img src="assets/images/proyectos/android-robot.jpg" alt="Android-Robot">
 										</div>
 										<div class="content">
 											<ul class="top-meta">
 												<li>
 													<p class="date">
-														21 Aug, 2019
+														02 Nov, 2020
 													</p>
 												</li>
 												<li>
 													<p class="post-by">
-														By, Admin
+														 Por, Luis Timaná
 													</p>
 												</li>
 											</ul>
-											<a href="blog-details.html">
+											<a href="android-robot.php">
 												<h4 class="title">
-													5 reasons why your website
-													needs more whitespace
+													Android Robot Interactivo
 												</h4>
 											</a>
 										</div>
 									</div>
 								</div>
-								<div class="slider-item">
+								<!-- <div class="slider-item">
 									<div class="single-blog">
 										<div class="img">
 											<img src="assets/images/blog/img2.png" alt="">
@@ -1385,14 +1384,14 @@
 											</a>
 										</div>
 									</div>
-								</div>
+								</div> -->
 							</div>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-lg-12 text-center">
 					
-							<a href="#" class="mybtn3 mybtn-bg wow fadeInUp"><span>Ver Todo</span></a>
+							<a href="blogs.php" class="mybtn3 mybtn-bg wow fadeInUp"><span>Ver Todo</span></a>
 						</div>
 					</div>
 				</div>
