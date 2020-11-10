@@ -751,7 +751,7 @@
 											<div class="content-overlay">
 												<div class="content">
 													<div class="links">
-														<a href="portfolio-details.html" class="link"><i class="fas fa-link"></i></a>
+														<a href="#" class="link"><i class="fas fa-link"></i></a>
 														<a class="img-popup image-preview"
 															href="assets/images/proyectos/web_sge.png">
 															<i class="fas fa-eye"></i>
@@ -770,7 +770,7 @@
 											<div class="content-overlay">
 												<div class="content">
 													<div class="links">
-														<a href="portfolio-details.html" class="link"><i class="fas fa-link"></i></a>
+														<a href="#" class="link"><i class="fas fa-link"></i></a>
 														<a class="img-popup image-preview"
 															href="assets/images/proyectos/web_gema.png">
 															<i class="fas fa-eye"></i>
@@ -801,16 +801,16 @@
 									</div>
 								</div>
 	
-								<!-- <div class="mix col-md-6 col-lg-4 gallery-item  cat-1">
+								<div class="mix col-md-6 col-lg-4 gallery-item  cat-1">
 									<div class="gallery-item-content wow fadeInUp">
 										<div class="item-thumbnail">
-											<img src="assets/images/proyectos/web_gema_view.png" alt="">
+												<img src="assets/images/proyectos/login_view.png" alt="">
 											<div class="content-overlay">
 												<div class="content">
 													<div class="links">
-														<a href="portfolio-details.html" class="link"><i class="fas fa-link"></i></a>
+														<a href="portfolio-login.php" class="link"><i class="fas fa-link"></i></a>
 														<a class="img-popup image-preview"
-															href="assets/images/proyectos/web_gema.png">
+															href="assets/images/proyectos/login.png">
 															<i class="fas fa-eye"></i>
 														</a>
 													</div>
@@ -818,7 +818,7 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
+								</div>
 	
 								<div class="mix col-md-6 col-lg-4 gallery-item cat-1">
 									<div class="gallery-item-content wow fadeInUp">
@@ -858,7 +858,7 @@
 									</div>
 								</div>
 	
-								<div class="mix col-md-6 col-lg-4 gallery-item cat-1">
+								<!-- <div class="mix col-md-6 col-lg-4 gallery-item cat-1">
 									<div class="gallery-item-content wow fadeInUp">
 										<div class="item-thumbnail">
 											<img src="assets/images/proyectos/login_view.png" alt="">
@@ -875,18 +875,18 @@
 											</div>
 										</div>
 									</div>
-								</div>
+								</div> -->
 	
 								<div class="mix col-md-6 col-lg-4 gallery-item cat-2">
 									<div class="gallery-item-content wow fadeInUp">
 										<div class="item-thumbnail">
-											<img src="assets/images/diseño/1_view.png" alt="">
+											<img src="assets/images/diseno/1_view.png" alt="">
 											<div class="content-overlay">
 												<div class="content">
 													<div class="links">
 														<a href="portfolio-details.html" class="link"><i class="fas fa-link"></i></a>
 														<a class="img-popup image-preview"
-															href="assets/images/diseño/1.png">
+															href="assets/images/diseno/1.png">
 															<i class="fas fa-eye"></i>
 														</a>
 													</div>
@@ -899,13 +899,13 @@
 								<div class="mix col-md-6 col-lg-4 gallery-item cat-2">
 									<div class="gallery-item-content wow fadeInUp">
 										<div class="item-thumbnail">
-											<img src="assets/images/diseño/2_view.png" alt="">
+											<img src="assets/images/diseno/2.png" alt="">
 											<div class="content-overlay">
 												<div class="content">
 													<div class="links">
 														<a href="portfolio-details.html" class="link"><i class="fas fa-link"></i></a>
 														<a class="img-popup image-preview"
-															href="assets/images/diseño/2.png">
+															href="assets/images/diseno/2.png">
 															<i class="fas fa-eye"></i>
 														</a>
 													</div>
@@ -919,13 +919,13 @@
 								<div class="mix col-md-6 col-lg-4 gallery-item cat-2">
 									<div class="gallery-item-content wow fadeInUp">
 										<div class="item-thumbnail">
-											<img src="assets/images/diseño/3_view.png" alt="">
+											<img src="assets/images/diseno/3_view.png" alt="">
 											<div class="content-overlay">
 												<div class="content">
 													<div class="links">
 														<a href="portfolio-details.html" class="link"><i class="fas fa-link"></i></a>
 														<a class="img-popup image-preview"
-															href="assets/images/diseño/3.png">
+															href="assets/images/diseno/3.png">
 															<i class="fas fa-eye"></i>
 														</a>
 													</div>
@@ -1304,34 +1304,33 @@
 										</div>
 									</div>
 								</div>
-								<!-- <div class="slider-item">
+								<div class="slider-item">
 									<div class="single-blog">
 										<div class="img">
-											<img src="assets/images/blog/img2.png" alt="">
+											<img src="assets/images/proyectos/login_view.png" alt="">
 										</div>
 										<div class="content">
 											<ul class="top-meta">
 												<li>
 													<p class="date">
-														21 Aug, 2019
+														02 Nov, 2020
 													</p>
 												</li>
 												<li>
 													<p class="post-by">
-														By, Admin
+														Por, Luis Timaná
 													</p>
 												</li>
 											</ul>
 											<a href="blog-details.html">
 												<h4 class="title">
-													7 steps to optimize your
-													website for Millennials
+													Login con HTML + CSS
 												</h4>
 											</a>
 										</div>
 									</div>
 								</div>
-								<div class="slider-item">
+								<!-- <div class="slider-item">
 									<div class="single-blog">
 										<div class="img">
 											<img src="assets/images/blog/img3.png" alt="">

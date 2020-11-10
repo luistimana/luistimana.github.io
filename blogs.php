@@ -76,34 +76,33 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- <div class="col-lg-6 col-md-6">
+                                    <div class="col-lg-6 col-md-6">
                                         <div class="single-blog">
                                             <div class="img">
-                                                <img src="assets/images/blog/img2.png" alt="">
+                                                <img src="assets/images/proyectos/login_view.png" alt="">
                                             </div>
                                             <div class="content">
                                                 <ul class="top-meta">
                                                     <li>
                                                         <p class="date">
-                                                            21 Aug, 2019
+                                                            02 Nov, 2020
                                                         </p>
                                                     </li>
                                                     <li>
                                                         <p class="post-by">
-                                                            By, Admin
+                                                            Por, Luis Timaná
                                                         </p>
                                                     </li>
                                                 </ul>
-                                                <a href="blog-details.html">
+                                                <a href="portfolio-login.php">
                                                     <h4 class="title">
-                                                        7 steps to optimize your 
-                                                        website for Millennials										
+                                                        Login con HTML + CSS								
                                                     </h4>
                                                 </a>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-6 col-md-6">
+                                    <!-- <div class="col-lg-6 col-md-6">
                                         <div class="single-blog">
                                             <div class="img">
                                                 <img src="assets/images/blog/img3.png" alt="">

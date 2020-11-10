@@ -8,7 +8,7 @@
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="keyword" content="resume,cv,portfolio,vcard">
-	<title>  Android-Robot  </title>
+	<title>  Portafolio - Login  </title>
 	<!-- favicon -->
 	<link rel="shortcut icon" href="assets/images/LT.png" type="image/x-icon">
 	<!-- bootstrap -->
@@ -53,7 +53,7 @@
 							<div class="col-lg-8">
 								<div class="single-blog-details">
 									<div class="img">
-										<img src="assets/images/proyectos/android-robot.gif" alt="Android-Robot">
+										<img src="assets/images/proyectos/login.gif" alt="Login">
 									</div>
 									<div class="content">
 										<ul class="top-meta">
@@ -70,13 +70,13 @@
 										</ul>
 										<a href="#">
 											<h4 class="title">
-												Android - Robot Interactivo
+												Login HTML + CSS
 											</h4>
 										</a>
 										<div class="text-area">
 											<blockquote>
 											<p>
-												Puede ser tu mascota, reacciona al pasar el mouse por el.
+												Interactivo formulario de inicio de sesión genial para usar en cualquier sitio web y aplicación.
 											</p>
 											</blockquote>
 
@@ -88,7 +88,7 @@
 												<li>
 													<p><i class="far fa-hand-point-right"></i>Les dejo el repositorio del proyecto: <br> 
 
-													Disponible en mi repositorio de <a class="link" href="https://github.com/luistimana/android-robot" target="_blank"> GitHub <img class="github" src="assets\images\github.svg" alt="Link a GitHub"></a></p>
+													Disponible en mi repositorio de <a class="link" href="https://github.com/luistimana/login" target="_blank"> GitHub <img class="github" src="assets\images\github.svg" alt="Link a GitHub"></a></p>
 												</li>
 											</ul>
 											
