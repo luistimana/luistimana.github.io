@@ -9,7 +9,6 @@
 
     $header = "Enviado desde la pagina sgesystems.com";
 
-
     $mensajecompleto = $message . "\n\nAtentamente  \n\n" . $name;
 
     mail($destinatario, $subject, $mensajecompleto, $header);

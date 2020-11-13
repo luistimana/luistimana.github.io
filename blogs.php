@@ -68,7 +68,7 @@
                                                         </p>
                                                     </li>
                                                 </ul>
-                                                <a href="blog-details.html">
+                                                <a href="android-robot.php">
                                                     <h4 class="title">
                                                         Android Robot Interactivo
                                                     </h4>
@@ -330,6 +330,4 @@
 
 </body>
 
-
-<!-- Mirrored from geniusdevs.com/themeforest/gfolio/v3-two/blogs.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 30 Oct 2020 22:51:54 GMT -->
 </html>

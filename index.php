@@ -63,7 +63,8 @@
 										</h4>
 										<div class="designation wow zoomIn" data-wow-delay="0.4s">
 											<span>
-												Soy <span class="typed"></span>
+												<!-- Soy <span class="typed"></span> -->
+												<span class="typed"></span>
 											</span>
 										</div>
 										<!-- <div class="social-info wow fadeInUp" data-wow-delay="0.5s">
@@ -827,7 +828,7 @@
 											<div class="content-overlay">
 												<div class="content">
 													<div class="links">
-														<a href="portfolio-details.html" class="link"><i class="fas fa-link"></i></a>
+														<a href="#" class="link"><i class="fas fa-link"></i></a>
 														<a class="img-popup image-preview"
 															href="assets/images/proyectos/ecoomerce.png">
 															<i class="fas fa-eye"></i>
@@ -846,7 +847,7 @@
 											<div class="content-overlay">
 												<div class="content">
 													<div class="links">
-														<a href="portfolio-details.html" class="link"><i class="fas fa-link"></i></a>
+														<a href="#" class="link"><i class="fas fa-link"></i></a>
 														<a class="img-popup image-preview"
 															href="assets/images/proyectos/ecommerce_carrito.png">
 															<i class="fas fa-eye"></i>
@@ -858,16 +859,16 @@
 									</div>
 								</div>
 	
-								<!-- <div class="mix col-md-6 col-lg-4 gallery-item cat-1">
+								<div class="mix col-md-6 col-lg-4 gallery-item cat-1">
 									<div class="gallery-item-content wow fadeInUp">
 										<div class="item-thumbnail">
-											<img src="assets/images/proyectos/login_view.png" alt="">
+											<img src="assets/images/proyectos/ecommerce_view.png" alt="">
 											<div class="content-overlay">
 												<div class="content">
 													<div class="links">
-														<a href="portfolio-details.html" class="link"><i class="fas fa-link"></i></a>
+														<a href="#" class="link"><i class="fas fa-link"></i></a>
 														<a class="img-popup image-preview"
-															href="assets/images/proyectos/login.png">
+															href="assets/images/proyectos/ecommerce.png">
 															<i class="fas fa-eye"></i>
 														</a>
 													</div>
@@ -875,7 +876,7 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
+								</div>
 	
 								<div class="mix col-md-6 col-lg-4 gallery-item cat-2">
 									<div class="gallery-item-content wow fadeInUp">
@@ -884,7 +885,7 @@
 											<div class="content-overlay">
 												<div class="content">
 													<div class="links">
-														<a href="portfolio-details.html" class="link"><i class="fas fa-link"></i></a>
+														<a href="#" class="link"><i class="fas fa-link"></i></a>
 														<a class="img-popup image-preview"
 															href="assets/images/diseno/1.png">
 															<i class="fas fa-eye"></i>
@@ -903,7 +904,7 @@
 											<div class="content-overlay">
 												<div class="content">
 													<div class="links">
-														<a href="portfolio-details.html" class="link"><i class="fas fa-link"></i></a>
+														<a href="#" class="link"><i class="fas fa-link"></i></a>
 														<a class="img-popup image-preview"
 															href="assets/images/diseno/2.png">
 															<i class="fas fa-eye"></i>
@@ -923,7 +924,7 @@
 											<div class="content-overlay">
 												<div class="content">
 													<div class="links">
-														<a href="portfolio-details.html" class="link"><i class="fas fa-link"></i></a>
+														<a href="#" class="link"><i class="fas fa-link"></i></a>
 														<a class="img-popup image-preview"
 															href="assets/images/diseno/3.png">
 															<i class="fas fa-eye"></i>
@@ -942,7 +943,7 @@
 											<div class="content-overlay">
 												<div class="content">
 													<div class="links">
-														<a href="portfolio-details.html" class="link"><i class="fas fa-link"></i></a>
+														<a href="#" class="link"><i class="fas fa-link"></i></a>
 														<a class="img-popup image-preview"
 															href="assets/images/work/8.jpg">
 															<i class="fas fa-eye"></i>
@@ -1455,7 +1456,7 @@
 						<div class="col-lg-6">
 							<div class="home-page-form">
 								<div class="contact-form">
-									<form id="contact-form" action="correo.php" method="post" >							
+									<form id="contact-form" action="correo.php" method="post" role="form" >							
 										<div class="controls">
 											<div class="row">
 												<div class="col-md-6">
@@ -1546,6 +1547,4 @@
 	
 </body>
 
-
-<!-- Mirrored from geniusdevs.com/themeforest/gfolio/v3-two/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 30 Oct 2020 22:49:51 GMT -->
 </html>
